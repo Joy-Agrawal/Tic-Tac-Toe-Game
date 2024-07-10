@@ -7,7 +7,7 @@
 html,body{
     height: 100%;
     width: 100%;
-    background: linear-gradient(brown,black);
+    background: linear-gradient(yellow,black);
     cursor: pointer;
 }
 
